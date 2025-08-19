@@ -1,0 +1,1 @@
+def p(g):b=g[0][0];return[[b]*-~sum(x!=b for x in g[0])for _ in' '*-~sum(r[0]!=b for r in g)]
